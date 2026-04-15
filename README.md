@@ -60,6 +60,6 @@
 ## Reach Me
 
 <a title="sunchhay395@gmail.com" href="mailto:sunchhay395@gmail.com">![E-mail](https://img.shields.io/badge/-Email-white?style=flat&logo=Gmail)</a>
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SovansunchhayKhoun)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SunchhayK)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SunchhayKhoun/)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SunchhayKhoun)
