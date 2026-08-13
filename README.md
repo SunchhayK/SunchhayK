@@ -6,9 +6,9 @@
 
 🔥 **Team player**
 
-![github-graph](https://github-readme-stats.vercel.app/api?username=SunchhayK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
-![most-used-lang](https://github-readme-stats.vercel.app/api/top-langs?username=SunchhayK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=SunchhayK)
+![github-graph](https://github-readme-stats.vercel.app/api?username=SSunchhayK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
+![most-used-lang](https://github-readme-stats.vercel.app/api/top-langs?username=SSunchhayK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=SSunchhayK)
 
 ## Tech Stack
 
