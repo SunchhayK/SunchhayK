@@ -27,3 +27,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_AI_CODE_TIME: "True"
           SHOW_AI_CODING: "True"
+          DEBUG_LOGGING: "true"
