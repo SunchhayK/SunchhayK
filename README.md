@@ -1,65 +1,114 @@
-# Hi there 👋
+<h1 align="center">Hi there, I'm Sunchhay 👋</h1>
 
-🎓 **Computer Science** student at **CADT**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Full+Stack+AI+Engineer;AI+Systems+Builder+%7C+AI+Enthusiast;Web+%26+App+Systems+with+Practical+AI;AI+Researcher+%40+CADT" alt="Typing SVG" />
+</p>
 
-💻 **Software Engineering**
+<p align="center">
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=SunchhayK&style=flat&color=blue" /> •
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/SunchhayK?label=Followers&style=flat&color=blue" />
+</p>
 
-🔥 **Team player**
+<p align="center">
+  <img src="https://ghchart.rshah.org/7aa2f7/SunchhayK" alt="Sunchhay's GitHub contribution chart" width="100%" />
+</p>
 
-![github-graph](https://github-readme-stats.vercel.app/api?username=SunchhayK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
-![most-used-lang](https://github-readme-stats.vercel.app/api/top-langs?username=SunchhayK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=SunchhayK)
+## About me
 
-## Tech Stack
+- 🔭 Building **full stack web and mobile apps embedded with practical AI**
+- 🎓 Master student in **AI & Data Science at CADT**
+- 🧠 Focus: **AI systems, OCR pipelines, and high-throughput backend services**
+- 💬 Ask me about **FastAPI, NestJS, Flutter, Next.js, or PyTorch**
+- ⚡ Fun fact: **i know nth but nth doesn't know me :')**
 
-<div align="center">
-  <img alt="NestJS" title="NestJS" width="50" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/nestjs.svg">
-  &nbsp;&nbsp;
-  <img style="background-color: white; border-radius: 999px;" alt="NestJS" title="NextJS" width="50" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/nextjs.svg">
-  &nbsp;&nbsp;
-  <img alt="Flutter" title="Flutter" width="50" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/flutter.svg">
-  &nbsp;&nbsp;
-  <img alt="docker" title="docker" height="60" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/docker.svg">
-  &nbsp;&nbsp;
-  <img alt="Unity" title="Unity" height="50" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/unity.svg">
-  &nbsp;&nbsp;
-  <img alt="ReactJs" title="ReactJs" width="50" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/react.svg">
-  &nbsp;&nbsp;
-  <img alt="Laravel" title="Laravel" width="50" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/laravel.svg">
-  &nbsp;&nbsp;
-  <img alt="PyTorch" title="PyTorch" width="45" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/pytorch.svg">
-  &nbsp;&nbsp;
-  <img alt="TensorFlow" title="TensorFlow" width="50" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/tensorflow.svg">
-  &nbsp;&nbsp;
-  <img alt="scikit-learn" title="scikit-learn" width="150" src="https://github.com/SovansunchhayKhoun/my-assets/blob/main/Programming%20Icons/scikit-learn.png?raw=true">
-  &nbsp;&nbsp;
-  <img alt="MongoDB" title="MongoDB" width="50" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/mongodb.svg">
-  &nbsp;&nbsp;
-  <img alt="PostgreSql" title="PostgreSql" width="50" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/postgres.png?raw=true">
-  &nbsp;&nbsp;
-  <img alt="MySql" title="MySql" height="70" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/mysql.svg">
-  &nbsp;&nbsp;
-  <img alt="Sentry" title="Sentry" height="60" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/sentry.svg">
-  &nbsp;&nbsp;
-  <img alt="Cypress" title="Cypress" height="54" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/cypress.svg">
-  &nbsp;&nbsp;
-  <img alt="Jest" title="Jest" height="50" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/jest.svg">
-  &nbsp;&nbsp;
-  <img alt="Swagger" title="Swagger" height="60" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/swagger.svg">
-  &nbsp;&nbsp;
-  <img alt="Storybook" title="Storybook" height="60" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/storybook.svg">
-  &nbsp;&nbsp;
-  <img style="background-color: white; padding: 5px; border-radius: 999px;" alt="ExpressJs" title="ExpressJs" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/express.svg" width="50">
-  &nbsp;&nbsp;
-  <img alt="typescript" title="TypeScript" width="60" src="https://github.com/SovansunchhayKhoun/my-assets/raw/main/Programming%20Icons/typescript.svg">
-  &nbsp;&nbsp;
-  <img alt="NodeJs" title="NodeJs" width="60" src="https://raw.githubusercontent.com/SovansunchhayKhoun/my-assets/main/Programming%20Icons/nodedotjs.svg">
-  &nbsp;&nbsp;
-</div>
+## What I'm currently doing
 
-## Reach Me
+- 🎓 **Graduate studies**: Master in AI & Data Science at CADT
+- 🔬 **Computer vision & OCR**: Building synthetic datasets and fine-tuning TrOCR & YOLOv8 for Khmer document extraction
+- 🤖 **Agentic systems**: Designing multi-agent harnesses, custom MCP servers, and automation pipelines
+- 🚀 **Shipping**: Developing full stack web apps, Telegram bots, and automated scheduling workflows
 
-<a title="ssunchhay.khoun@gmail.com" href="mailto:ssunchhay.khoun@gmail.com">![E-mail](https://img.shields.io/badge/-Email-white?style=flat&logo=Gmail)</a>
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SunchhayK)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SunchhayKhoun/)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SSunchhayK)
+## AI tooling and workflows
+
+<!--START_SECTION:ai_telemetry-->
+```text
+🤖 AI Telemetry & Token Metrics (via Token Monitor)
+────────────────────────────────────────────────────────────────────────
+⏱ Today's AI Compute      : 61.90M tokens ($10.23)
+🔤 Lifetime Token Volume   : 3.12 Billion tokens ($777.04 across 122 days)
+⚡ Prompt Cache Efficiency : 83.5% cache hit (2.61B cache-read tokens)
+🧠 Primary Driver          : Google Antigravity (IDE & CLI) with Gemini 3.8 Flash
+
+Model & Agent Distribution:
+Gemini 3.8 Flash          2.04B tokens       ███████████████████████░░   65.4 %
+Gemini 3.7 / Local Models  1.08B tokens       █░░░░░░░░░░░░░░░░░░░░░░░░   34.6 %
+
+Agentic Engineering Insights:
+• High-Efficiency Prompter : Strict ponytail & YAGNI enforcement with prompt cache reuse
+• Autonomous Execution     : 19,628+ lifetime tool calls across IDE & CLI workflows
+• Custom Agent Harness     : Zero-slop skill rules and local MCP servers in daily pairing
+• High Reasoning Density   : 8.35M reasoning tokens generated
+────────────────────────────────────────────────────────────────────────
+```
+<!--END_SECTION:ai_telemetry-->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Primary_Agent-Antigravity_CLI-4285F4?style=flat&logo=google&logoColor=white" alt="Antigravity CLI" />
+  <img src="https://img.shields.io/badge/Core_Model-Gemini_3.8_Flash-34A853?style=flat&logo=googlecloud&logoColor=white" alt="Gemini Models" />
+  <img src="https://img.shields.io/badge/Antigravity_Sessions-111-FBBC05?style=flat&logo=google&logoColor=black" alt="Sessions" />
+  <img src="https://img.shields.io/badge/Autonomous_Steps-19%2C628-EA4335?style=flat&logo=speedtest&logoColor=white" alt="Steps" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenClaw-00D26A?style=flat&logo=white" alt="OpenClaw" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-3B82F6?style=flat&logo=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=google&logoColor=white" alt="Gemini" />
+</p>
+
+- 🤖 **Autonomous coding**: Google Antigravity CLI as daily driver with Gemini 3.8 Flash for multi-step reasoning, test-driven iteration, and codebase audits.
+- 🛠️ **Protocols & tools**: Model Context Protocol (MCP) servers and browser agents for live database inspections, research verification, and file operations.
+- 🔄 **Orchestration & pipelines**: OpenClaw, n8n webhooks, and Claude Code for event-driven agent workflows and scheduled tasks.
+- 👁️ **Applied vision & OCR**: Fine-tuning TrOCR and YOLOv8 models on low-resource Khmer script with synthetic data pipelines.
+
+---
+
+### Languages and tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,py,cpp,dart,postgres,fastapi,nestjs,next,flutter,docker,aws,pytorch,git" alt="Tech Stack" />
+</p>
+
+---
+
+## Development and AI activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunchhayK&theme=tokyonight" alt="GitHub Profile Details" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=SunchhayK&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SunchhayK&theme=tokyonight" alt="Most Committed Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SunchhayK&theme=tokyonight" alt="Productive Time" width="49%" />
+</p>
+
+---
+
+## Connect with me
+
+<p align="center">
+  <a href="mailto:ssunchhay.khoun@gmail.com"><img src="https://img.shields.io/badge/Email-ssunchhay.khoun%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/SunchhayKhoun/"><img src="https://img.shields.io/badge/LinkedIn-SunchhayKhoun-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/SSunchhayK"><img src="https://img.shields.io/badge/Telegram-@SSunchhayK-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://hiruined.com"><img src="https://img.shields.io/badge/Website-hiruined.com-000000?style=flat&logo=safari&logoColor=white" alt="Website" /></a>
+</p>
