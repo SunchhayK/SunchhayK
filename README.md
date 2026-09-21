@@ -94,6 +94,78 @@ Agentic Engineering Insights:
 ## Development and AI activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.98%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 475 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 46 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                25463 commits       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+🌆 Daytime                53074 commits       ██████████░░░░░░░░░░░░░░░   38.27 % 
+🌃 Evening                38223 commits       ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+🌙 Night                  21912 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   15021 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Tuesday                  18277 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Wednesday                15202 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Thursday                 28224 commits       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Friday                   15201 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Saturday                 26424 commits       █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Sunday                   20323 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Phnom_Penh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               53 repos            ████████████░░░░░░░░░░░░░   46.90 % 
+Python                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Jupyter Notebook         12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+```
+
+
+
+
+ Last Updated on 21/09/2026 10:53:24 UTC
 <!--END_SECTION:waka-->
 
 ---
