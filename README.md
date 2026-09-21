@@ -94,8 +94,6 @@ Agentic Engineering Insights:
 ## Development and AI activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -137,19 +135,38 @@ Sunday                   20323 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 47 mins       ███████████████████████░░   93.68 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity Desktop      2 hrs 24 mins       ████████████████████░░░░░   80.64 % 
+Antigravity IDE          19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Antigravity CLI          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 59 mins (100.0%)
+
+✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 58 AI Prompts
+
+Gemini                   1 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 85 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -165,7 +182,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 10:53:24 UTC
+ Last Updated on 21/09/2026 21:12:24 UTC
 <!--END_SECTION:waka-->
 
 ---
