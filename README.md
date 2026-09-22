@@ -1,7 +1,13 @@
 <h1 align="center">Hi there, I'm Sunchhay 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Full+Stack+AI+Engineer;AI+Systems+Builder+%7C+AI+Enthusiast;Web+%26+App+Systems+with+Practical+AI;AI+Researcher+%40+CADT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=540&lines=Full+Stack+AI+Engineer;AI+Systems+Builder+%7C+AI+Enthusiast;Web+%26+App+Systems+with+Practical+AI;Open+for+Opportunities+%F0%9F%9A%80;Ready+to+Build+%26+Ship" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:ssunchhay.khoun@gmail.com">
+    <img src="https://img.shields.io/badge/Status-Open_to_Opportunities_%F0%9F%9A%80-10B981?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to Opportunities" />
+  </a>
 </p>
 
 <p align="center">
@@ -23,6 +29,7 @@
 
 ## About me
 
+- ⚡ **Status**: **Open to work / Available for hire**. Ready to build full-stack AI systems, agentic architectures, and high-throughput backends. [Let's talk!](mailto:ssunchhay.khoun@gmail.com)
 - 🔭 Building **full stack web and mobile apps embedded with practical AI**
 - 🎓 Master student in **AI & Data Science at CADT**
 - 🧠 Focus: **AI systems, OCR pipelines, and high-throughput backend services**
@@ -42,18 +49,18 @@
 ```text
 🤖 AI Telemetry & Token Metrics (via Token Monitor)
 ────────────────────────────────────────────────────────────────────────
-⏱ Today's AI Compute      : 61.90M tokens ($10.23)
-🔤 Lifetime Token Volume   : 3.12 Billion tokens ($777.04 across 122 days)
-⚡ Prompt Cache Efficiency : 83.5% cache hit (2.61B cache-read tokens)
+⏱ Today's AI Compute      : 53.06M tokens ($9.40)
+🔤 Lifetime Token Volume   : 3.43 Billion tokens ($840.53 across 124 days)
+⚡ Prompt Cache Efficiency : 75.9% cache hit (2.61B cache-read tokens)
 🧠 Primary Driver          : Google Antigravity (IDE & CLI) with Gemini 3.8 Flash
 
 Model & Agent Distribution:
-Gemini 3.8 Flash          2.04B tokens       ███████████████████████░░   65.4 %
-Gemini 3.7 / Local Models  1.08B tokens       █░░░░░░░░░░░░░░░░░░░░░░░░   34.6 %
+Gemini 3.8 Flash          3.17B tokens       ███████████████████████░░   92.3 %
+Gemini 3.7 / Local Models  0.26B tokens       █░░░░░░░░░░░░░░░░░░░░░░░░   7.7 %
 
 Agentic Engineering Insights:
 • High-Efficiency Prompter : Strict ponytail & YAGNI enforcement with prompt cache reuse
-• Autonomous Execution     : 19,628+ lifetime tool calls across IDE & CLI workflows
+• Autonomous Execution     : 20,302+ lifetime tool calls across IDE & CLI workflows
 • Custom Agent Harness     : Zero-slop skill rules and local MCP servers in daily pairing
 • High Reasoning Density   : 8.35M reasoning tokens generated
 ────────────────────────────────────────────────────────────────────────
@@ -63,8 +70,8 @@ Agentic Engineering Insights:
 <p align="center">
   <img src="https://img.shields.io/badge/Primary_Agent-Antigravity_CLI-4285F4?style=flat&logo=google&logoColor=white" alt="Antigravity CLI" />
   <img src="https://img.shields.io/badge/Core_Model-Gemini_3.8_Flash-34A853?style=flat&logo=googlecloud&logoColor=white" alt="Gemini Models" />
-  <img src="https://img.shields.io/badge/Antigravity_Sessions-111-FBBC05?style=flat&logo=google&logoColor=black" alt="Sessions" />
-  <img src="https://img.shields.io/badge/Autonomous_Steps-19%2C628-EA4335?style=flat&logo=speedtest&logoColor=white" alt="Steps" />
+  <img src="https://img.shields.io/badge/Antigravity_Sessions-112-FBBC05?style=flat&logo=google&logoColor=black" alt="Sessions" />
+  <img src="https://img.shields.io/badge/Autonomous_Steps-20%2C302-EA4335?style=flat&logo=speedtest&logoColor=white" alt="Steps" />
 </p>
 
 <p align="center">
@@ -96,22 +103,6 @@ Agentic Engineering Insights:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2059%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.90%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 487 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 45 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -149,28 +140,6 @@ Antigravity CLI          15 mins             ██░░░░░░░░░�
 
 💻 Operating System: 
 Mac                      2 hrs 59 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 59 mins (100.0%)
-
-✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 13 AI Sessions, 58 AI Prompts
-
-Gemini                   1 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 85 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
