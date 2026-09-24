@@ -130,17 +130,17 @@ Sunday                   20318 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Other                    7 hrs 13 mins       ████████████████████████░   97.45 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Other                    10 hrs 48 mins      █████████████████████████   98.28 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-Antigravity Desktop      6 hrs 31 mins       ██████████████████████░░░   88.12 % 
-Antigravity IDE          36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Antigravity CLI          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Antigravity Desktop      9 hrs 31 mins       ██████████████████████░░░   86.61 % 
+Antigravity CLI          46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Antigravity IDE          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Antigravity              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Mac                      7 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -156,7 +156,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 20:28:35 UTC
+ Last Updated on 24/09/2026 10:13:59 UTC
 <!--END_SECTION:waka-->
 
 ---
