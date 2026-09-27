@@ -130,18 +130,18 @@ Sunday                   20319 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Other                    18 hrs 35 mins      █████████████████████████   98.34 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Other                    15 hrs 20 mins      ████████████████████████░   97.99 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-Antigravity Desktop      16 hrs 27 mins      ██████████████████████░░░   87.02 % 
-Antigravity CLI          1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Antigravity IDE          44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Antigravity              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Antigravity Desktop      13 hrs 13 mins      █████████████████████░░░░   84.40 % 
+Antigravity CLI          1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Antigravity IDE          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Antigravity              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-Mac                      18 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +157,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 20:01:24 UTC
+ Last Updated on 27/09/2026 10:49:44 UTC
 <!--END_SECTION:waka-->
 
 ---
