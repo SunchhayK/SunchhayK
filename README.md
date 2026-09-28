@@ -106,21 +106,21 @@ Agentic Engineering Insights:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                25445 commits       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-🌆 Daytime                53094 commits       ██████████░░░░░░░░░░░░░░░   38.30 % 
-🌃 Evening                38215 commits       ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-🌙 Night                  21890 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+🌞 Morning                25458 commits       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+🌆 Daytime                53144 commits       ██████████░░░░░░░░░░░░░░░   38.31 % 
+🌃 Evening                38226 commits       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+🌙 Night                  21903 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   15026 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Tuesday                  18284 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Wednesday                15231 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Thursday                 28221 commits       █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-Friday                   15187 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Saturday                 26376 commits       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Sunday                   20319 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Monday                   15049 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Tuesday                  18293 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Wednesday                15244 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Thursday                 28226 commits       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Friday                   15207 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Saturday                 26388 commits       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Sunday                   20324 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
 ```
 
 
@@ -130,18 +130,18 @@ Sunday                   20319 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Other                    15 hrs 20 mins      ████████████████████████░   97.99 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Other                    11 hrs 58 mins      ████████████████████████░   97.44 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-Antigravity Desktop      13 hrs 13 mins      █████████████████████░░░░   84.40 % 
-Antigravity CLI          1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Antigravity IDE          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Antigravity              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Antigravity Desktop      9 hrs 55 mins       ████████████████████░░░░░   80.76 % 
+Antigravity CLI          1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Antigravity IDE          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Antigravity              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 💻 Operating System: 
-Mac                      15 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +157,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 20:23:13 UTC
+ Last Updated on 28/09/2026 11:54:07 UTC
 <!--END_SECTION:waka-->
 
 ---
