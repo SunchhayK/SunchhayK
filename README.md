@@ -101,26 +101,26 @@ Agentic Engineering Insights:
 ## Development and AI activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2024%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                25539 commits       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-🌆 Daytime                53308 commits       ██████████░░░░░░░░░░░░░░░   38.32 % 
-🌃 Evening                38303 commits       ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-🌙 Night                  21972 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+🌞 Morning                25552 commits       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+🌆 Daytime                53352 commits       ██████████░░░░░░░░░░░░░░░   38.33 % 
+🌃 Evening                38314 commits       ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+🌙 Night                  21985 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   15104 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Tuesday                  18340 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Wednesday                15317 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Thursday                 28259 commits       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Friday                   15263 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Saturday                 26447 commits       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Sunday                   20392 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Monday                   15121 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Tuesday                  18349 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Wednesday                15330 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Thursday                 28264 commits       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Friday                   15283 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Saturday                 26459 commits       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Sunday                   20397 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
 ```
 
 
@@ -130,18 +130,19 @@ Sunday                   20392 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-JSON                     55 mins             ████████░░░░░░░░░░░░░░░░░   30.88 % 
-Python                   45 mins             ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-Markdown                 44 mins             ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Markdown                 7 hrs 34 mins       ██████████████░░░░░░░░░░░   55.41 % 
+Python                   2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-Opencode Cli             2 hrs 17 mins       ███████████████████░░░░░░   76.50 % 
-Antigravity              42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+Opencode Cli             7 hrs 12 mins       █████████████░░░░░░░░░░░░   52.80 % 
+Antigravity              3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+OpenCode                 2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
 
 💻 Operating System: 
-Mac                      3 hrs               █████████████████████████   100.00 % 
+Mac                      13 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +158,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 19:24:19 UTC
+ Last Updated on 19/10/2026 11:01:35 UTC
 <!--END_SECTION:waka-->
 
 ---
