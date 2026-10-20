@@ -130,19 +130,20 @@ Sunday                   20397 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Markdown                 8 hrs 39 mins       ██████████████░░░░░░░░░░░   57.28 % 
-Python                   2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Markdown                 11 hrs 54 mins      ██████████████░░░░░░░░░░░   55.83 % 
+Python                   2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+TypeScript               1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Astro                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-Opencode Cli             7 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.76 % 
-Antigravity              4 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-OpenCode                 3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+Opencode Cli             10 hrs 15 mins      ████████████░░░░░░░░░░░░░   48.05 % 
+Antigravity              7 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.31 % 
+OpenCode                 3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Antigravity CLI          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Mac                      15 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      21 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -158,7 +159,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 10:19:32 UTC
+ Last Updated on 20/10/2026 20:43:31 UTC
 <!--END_SECTION:waka-->
 
 ---
