@@ -107,7 +107,7 @@ Agentic Engineering Insights:
 
 ```text
 🌞 Morning                25552 commits       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-🌆 Daytime                53352 commits       ██████████░░░░░░░░░░░░░░░   38.33 % 
+🌆 Daytime                53355 commits       ██████████░░░░░░░░░░░░░░░   38.33 % 
 🌃 Evening                38314 commits       ███████░░░░░░░░░░░░░░░░░░   27.52 % 
 🌙 Night                  21985 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 ```
@@ -116,7 +116,7 @@ Agentic Engineering Insights:
 ```text
 Monday                   15121 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 Tuesday                  18349 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Wednesday                15330 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Wednesday                15333 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 Thursday                 28264 commits       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 Friday                   15283 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
 Saturday                 26459 commits       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
@@ -130,36 +130,36 @@ Sunday                   20397 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Markdown                 11 hrs 54 mins      ██████████████░░░░░░░░░░░   55.83 % 
-Python                   2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-TypeScript               1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Astro                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Markdown                 11 hrs 55 mins      ██████████████░░░░░░░░░░░   55.14 % 
+Python                   2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+TypeScript               1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+JSON                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Astro                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 
 🔥 Editors: 
-Opencode Cli             10 hrs 15 mins      ████████████░░░░░░░░░░░░░   48.05 % 
-Antigravity              7 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.31 % 
-OpenCode                 3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Antigravity CLI          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Opencode Cli             10 hrs 15 mins      ████████████░░░░░░░░░░░░░   47.39 % 
+Antigravity              7 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.15 % 
+OpenCode                 3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Mac                      21 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               53 repos            ███████████░░░░░░░░░░░░░░   43.44 % 
-Python                   20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Jupyter Notebook         14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-JavaScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+TypeScript               54 repos            ███████████░░░░░░░░░░░░░░   43.90 % 
+Python                   20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Jupyter Notebook         14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+JavaScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 
 
 
 
- Last Updated on 21/10/2026 10:20:56 UTC
+ Last Updated on 21/10/2026 20:55:27 UTC
 <!--END_SECTION:waka-->
 
 ---
