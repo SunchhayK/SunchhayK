@@ -101,13 +101,13 @@ Agentic Engineering Insights:
 ## Development and AI activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2011%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                25552 commits       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-🌆 Daytime                53355 commits       ██████████░░░░░░░░░░░░░░░   38.33 % 
+🌞 Morning                25552 commits       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+🌆 Daytime                53365 commits       ██████████░░░░░░░░░░░░░░░   38.33 % 
 🌃 Evening                38314 commits       ███████░░░░░░░░░░░░░░░░░░   27.52 % 
 🌙 Night                  21985 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 ```
@@ -117,7 +117,7 @@ Agentic Engineering Insights:
 Monday                   15121 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 Tuesday                  18349 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 Wednesday                15333 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Thursday                 28264 commits       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Thursday                 28274 commits       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
 Friday                   15283 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
 Saturday                 26459 commits       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
 Sunday                   20397 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
@@ -149,17 +149,17 @@ Mac                      21 hrs 38 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               54 repos            ███████████░░░░░░░░░░░░░░   43.90 % 
-Python                   20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Jupyter Notebook         14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-JavaScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+TypeScript               55 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
+Python                   20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Jupyter Notebook         14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+JavaScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 
 
 
 
- Last Updated on 21/10/2026 20:55:27 UTC
+ Last Updated on 22/10/2026 10:19:12 UTC
 <!--END_SECTION:waka-->
 
 ---
