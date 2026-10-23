@@ -103,50 +103,6 @@ Agentic Engineering Insights:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2041%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                25552 commits       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-🌆 Daytime                53366 commits       ██████████░░░░░░░░░░░░░░░   38.33 % 
-🌃 Evening                38314 commits       ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-🌙 Night                  21985 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   15121 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Tuesday                  18349 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Wednesday                15333 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Thursday                 28274 commits       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Friday                   15284 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Saturday                 26459 commits       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Sunday                   20397 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Phnom_Penh
-
-💬 Programming Languages: 
-Markdown                 16 hrs 22 mins      ██████████████░░░░░░░░░░░   56.12 % 
-Python                   2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-TypeScript               2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-JSON                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Astro                    1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-
-🔥 Editors: 
-Opencode Cli             10 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   37.51 % 
-Antigravity              7 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-OpenCode                 5 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-Antigravity IDE          4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-
-💻 Operating System: 
-Mac                      29 hrs 9 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -160,7 +116,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 10:09:48 UTC
+ Last Updated on 23/10/2026 20:33:17 UTC
 <!--END_SECTION:waka-->
 
 ---
