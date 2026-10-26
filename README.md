@@ -106,15 +106,15 @@ Agentic Engineering Insights:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                25561 commits       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-🌆 Daytime                53381 commits       ██████████░░░░░░░░░░░░░░░   38.34 % 
+🌞 Morning                25562 commits       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+🌆 Daytime                53381 commits       ██████████░░░░░░░░░░░░░░░   38.33 % 
 🌃 Evening                38316 commits       ███████░░░░░░░░░░░░░░░░░░   27.52 % 
 🌙 Night                  21990 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   15135 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Monday                   15136 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 Tuesday                  18351 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 Wednesday                15342 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 Thursday                 28274 commits       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
@@ -130,21 +130,21 @@ Sunday                   20402 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Markdown                 20 hrs 59 mins      █████████████░░░░░░░░░░░░   50.18 % 
-TypeScript               5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Astro                    3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Python                   2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-CSS                      2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Markdown                 14 hrs 9 mins       ███████████░░░░░░░░░░░░░░   45.45 % 
+TypeScript               5 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Astro                    3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+JavaScript               1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+CSS                      1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🔥 Editors: 
-Opencode Cli             14 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   35.62 % 
-OpenCode                 8 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Antigravity              8 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Antigravity IDE          8 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Antigravity CLI          53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Opencode Cli             9 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.02 % 
+Antigravity IDE          8 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+OpenCode                 6 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Antigravity              5 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Antigravity CLI          53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 💻 Operating System: 
-Mac                      41 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -160,7 +160,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 19:47:39 UTC
+ Last Updated on 26/10/2026 11:14:21 UTC
 <!--END_SECTION:waka-->
 
 ---
