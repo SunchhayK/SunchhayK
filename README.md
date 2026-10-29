@@ -130,21 +130,21 @@ Sunday                   20402 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Markdown                 10 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   41.70 % 
-Other                    3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-TypeScript               2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Image (png)              1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Swift                    1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Markdown                 6 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.17 % 
+Other                    3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+TypeScript               2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Image (png)              1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Swift                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-Antigravity CLI          5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Antigravity Desktop      4 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Opencode Cli             3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-OpenCode                 2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Antigravity CLI          5 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+Antigravity Desktop      4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+Opencode Cli             3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Antigravity IDE          2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Antigravity              2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
 
 💻 Operating System: 
-Mac                      25 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -160,7 +160,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 11:42:13 UTC
+ Last Updated on 29/10/2026 21:57:08 UTC
 <!--END_SECTION:waka-->
 
 ---
